@@ -1,7 +1,7 @@
 import requests
 import json
 
-cxdx = "319532"
+cxdx = "553402409"
 cxxl = 50
 url = "https://api.bilibili.com/x/relation/followers?vmid="+cxdx+"&pn=1"#粉丝
 # url = "https://api.bilibili.com/x/relation/followings?vmid="+cxdx+"&pn=1"#关注
