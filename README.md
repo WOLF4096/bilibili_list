@@ -4,4 +4,4 @@
 |:----|:----|:----:|
 |test.py|Python|20220520|
 |test.php|PHP|20220521|
-|test.js|js|20220522|
+|test.js|JavaScript|20220522|
