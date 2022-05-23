@@ -22,6 +22,7 @@ for (i = 0; i < zon;i = i + num) {
     url = "https://api.bilibili.com/x/relation/followings?vmid=" + uid + "&pn=" + e + "&ps=" + num + "&order=desc&order_type=attention&jsonp=jsonp";//关注
     jsonlist(url);
 }
+//成了，又好像没成
 function jsonlist(url){
     httpRequest = new XMLHttpRequest();
     httpRequest.open('GET', url, true);
